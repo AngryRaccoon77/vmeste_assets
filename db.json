@@ -1,152 +1,136 @@
 {
    "chats":[
       {
-         "id":1,
          "senderName":"Дубин",
          "lastMessage":"Игорь, я нашел один холодильник",
          "profileImage":"https://github.com/AngryRaccoon77/vmeste_assets/blob/master/dubin.jpg?raw=true",
          "time":"10:15"
       },
       {
-         "id":2,
          "senderName":"Юля Пчелкина",
          "lastMessage":"Береги себя, Угорёк ❤️",
          "profileImage":"https://github.com/AngryRaccoon77/vmeste_assets/blob/master/pchelkina.jpg?raw=true",
          "time":"09:45"
       },
       {
-         "id":3,
          "senderName":"Фёдор Иванович",
          "lastMessage":"Гром, отчет будет к утру?",
          "profileImage":"https://github.com/AngryRaccoon77/vmeste_assets/blob/master/prokop.jpg?raw=true",
          "time":"08:30"
       },
       {
-         "id":4,
          "senderName":"Сергей Разумовский",
          "lastMessage":"Ты не понимаешь, что происходит",
          "profileImage":"https://github.com/AngryRaccoon77/vmeste_assets/blob/master/razum.jpg?raw=true",
          "time":"22:10"
       },
       {
-         "id":5,
          "senderName":"Чумной Доктор",
          "lastMessage":"Я хочу сыграть с тобой в игру...",
          "profileImage":"https://github.com/AngryRaccoon77/vmeste_assets/blob/master/chymnoi.jpg?raw=true",
          "time":"00:00"
       },
       {
-         "id":6,
          "senderName":"Доктор Рубинштейн",
          "lastMessage":"Как вы себя чувствуете?",
          "profileImage":"https://github.com/AngryRaccoon77/vmeste_assets/blob/master/doc.jpg?raw=true",
          "time":"14:20"
       },
       {
-         "id":7,
          "senderName":"Артём Габрелянов",
          "lastMessage":"Хотим снять фильм про вас",
          "profileImage":"https://github.com/AngryRaccoon77/vmeste_assets/blob/master/gabril.jpg?raw=true",
          "time":"12:05"
       },
       {
-         "id":8,
          "senderName":"Призрак",
          "lastMessage":"Найди меня если сможешь",
          "profileImage":"https://github.com/AngryRaccoon77/vmeste_assets/blob/master/volkov.jpg?raw=true",
          "time":"16:40"
       },
       {
-         "id":9,
          "senderName":"Мария Архипова",
          "lastMessage":"Обсудим в лаборатории.",
          "profileImage":"https://github.com/AngryRaccoon77/vmeste_assets/blob/master/arhip.jpg?raw=true",
          "time":"11:00"
       },
       {
-         "id":10,
          "senderName":"Стрелков ФСБ",
          "lastMessage":"ЭТО НЕ ДОПУСТИМО, ГРОМ!!!",
          "profileImage":"https://github.com/AngryRaccoon77/vmeste_assets/blob/master/strelkov.jpg?raw=true",
          "time":"13:10"
       },
       {
-         "id":11,
          "senderName":"Август Хольт",
          "lastMessage":"У меня есть, что может вас заинтерисовать",
          "profileImage":"https://github.com/AngryRaccoon77/vmeste_assets/blob/master/holt.jpg?raw=true",
          "time":"15:30"
       },
       {
-         "id":12,
          "senderName":"Отто Шрайбер",
          "lastMessage":"I like what you've done with the place.",
          "profileImage":"https://github.com/AngryRaccoon77/vmeste_assets/blob/master/otto.jpg?raw=true",
          "time":"21:50"
       },
       {
-         "id":13,
          "senderName":"Дядя",
          "lastMessage":"Я выйду и тебе пи...",
          "profileImage":"https://github.com/AngryRaccoon77/vmeste_assets/blob/master/dyda.jpg?raw=true",
          "time":"18:20"
       },
       {
-         "id":14,
          "senderName":"Елена Львовна",
          "lastMessage":"Когда ты освободишься?",
          "profileImage":"https://github.com/AngryRaccoon77/vmeste_assets/blob/master/prokop2.jpg?raw=true",
          "time":"20:05"
       },
       {
-         "id":15,
          "senderName":"Игнат Бустер",
          "lastMessage":"Игорек, как сам? ",
          "profileImage":"https://github.com/AngryRaccoon77/vmeste_assets/blob/master/ignat.jpg?raw=true",
          "time":"19:15"
       },
       {
-         "id":16,
          "senderName":"Алексей Рубцов",
          "lastMessage":"Есть новые данные по делу.",
          "profileImage":"https://github.com/AngryRaccoon77/vmeste_assets/blob/master/statist1.jpg?raw=true",
          "time":"17:50"
       },
       {
-         "id":17,
          "senderName":"Ольга Смирнова",
          "lastMessage":"Держи меня в курсе.",
          "profileImage":"https://github.com/AngryRaccoon77/vmeste_assets/blob/master/statist3.png?raw=true",
          "time":"22:30"
       },
       {
-         "id":18,
          "senderName":"Григорий Котов",
          "lastMessage":"Что нового на службе?",
          "profileImage":"https://github.com/AngryRaccoon77/vmeste_assets/blob/master/statist2.jpg?raw=true",
          "time":"12:45"
       },
       {
-         "id":19,
          "senderName":"Екатерина Яковлева",
          "lastMessage":"Звони, если что понадобится.",
          "profileImage":"https://github.com/AngryRaccoon77/vmeste_assets/blob/master/statist4.png?raw=true",
          "time":"13:55"
       },
       {
-         "id":20,
          "senderName":"Иван Орлов",
          "lastMessage":"Когда сможем встретиться?",
          "profileImage":"https://github.com/AngryRaccoon77/vmeste_assets/blob/master/Screenshot_1-4.jpg?raw=true",
          "time":"11:25"
       },
       {
-         "id":21,
          "senderName":"Женя",
          "lastMessage":"Привет",
          "profileImage":"https://thispersondoesnotexist.com/",
          "time":"11:25"
-      },
+      }
+   ]
+}
+
+{
+   "chats":[
       {
          "id":22,
          "senderName":"Леонид Тихонов",
@@ -266,159 +250,5 @@
          "profileImage":"",
          "time":"07:40"
       },
-      {
-         "id":39,
-         "senderName":"Анастасия Никифорова",
-         "lastMessage":"Какие планы на вечер?",
-         "profileImage":"",
-         "time":"06:15"
-      },
-      {
-         "id":40,
-         "senderName":"Максим Сидоров",
-         "lastMessage":"Гром, держи ухо востро.",
-         "profileImage":"",
-         "time":"05:55"
-      },
-      {
-         "id":41,
-         "senderName":"Тимур Корсаков",
-         "lastMessage":"Ты точно не забыл, что у нас сегодня?",
-         "profileImage":"",
-         "time":"04:30"
-      },
-      {
-         "id":42,
-         "senderName":"Николай Ребров",
-         "lastMessage":"Нужна помощь, Гром?",
-         "profileImage":"",
-         "time":"03:20"
-      },
-      {
-         "id":43,
-         "senderName":"Екатерина Шевченко",
-         "lastMessage":"Ты не один, Гром. Всё будет хорошо.",
-         "profileImage":"",
-         "time":"02:50"
-      },
-      {
-         "id":44,
-         "senderName":"Дмитрий Калугин",
-         "lastMessage":"Как себя чувствуешь, Гром?",
-         "profileImage":"",
-         "time":"01:45"
-      },
-      {
-         "id":45,
-         "senderName":"Марина Васильева",
-         "lastMessage":"Может, пересмотрим твоё расписание?",
-         "profileImage":"",
-         "time":"01:15"
-      },
-      {
-         "id":46,
-         "senderName":"Пётр Юрьевич",
-         "lastMessage":"Скоро встретимся, Гром.",
-         "profileImage":"",
-         "time":"00:45"
-      },
-      {
-         "id":47,
-         "senderName":"Анна Левина",
-         "lastMessage":"Ты что-то замолчал.",
-         "profileImage":"",
-         "time":"00:10"
-      },
-      {
-         "id":48,
-         "senderName":"Василиса Охотникова",
-         "lastMessage":"Гром, ты мне нужен.",
-         "profileImage":"",
-         "time":"23:50"
-      },
-      {
-         "id":49,
-         "senderName":"Даниил Фролов",
-         "lastMessage":"Ты слышал? Проблемы на востоке.",
-         "profileImage":"",
-         "time":"23:30"
-      },
-      {
-         "id":50,
-         "senderName":"Юрий Сидоров",
-         "lastMessage":"Когда наконец сделаешь этот отчёт?",
-         "profileImage":"",
-         "time":"23:00"
-      },
-      {
-         "id":51,
-         "senderName":"Зоя Гусева",
-         "lastMessage":"Ты всё ещё в строю, Гром?",
-         "profileImage":"",
-         "time":"22:40"
-      },
-      {
-         "id":52,
-         "senderName":"Андрей Беляев",
-         "lastMessage":"Помни, Гром, я всегда рядом.",
-         "profileImage":"",
-         "time":"22:20"
-      },
-      {
-         "id":53,
-         "senderName":"Ксения Герасимова",
-         "lastMessage":"Как у тебя дела с делами?",
-         "profileImage":"",
-         "time":"22:00"
-      },
-      {
-         "id":54,
-         "senderName":"Алексей Степанов",
-         "lastMessage":"Всё в порядке, не переживай.",
-         "profileImage":"",
-         "time":"21:30"
-      },
-      {
-         "id":55,
-         "senderName":"Станислав Усов",
-         "lastMessage":"Какое настроение, Гром?",
-         "profileImage":"",
-         "time":"21:10"
-      },
-      {
-         "id":56,
-         "senderName":"Денис Мельников",
-         "lastMessage":"Ты сможешь это сделать?",
-         "profileImage":"",
-         "time":"20:40"
-      },
-      {
-         "id":57,
-         "senderName":"Римма Федорова",
-         "lastMessage":"Ты точно не передумал?",
-         "profileImage":"",
-         "time":"20:00"
-      },
-      {
-         "id":58,
-         "senderName":"Кирилл Долгих",
-         "lastMessage":"Принеси что-нибудь интересное, Гром.",
-         "profileImage":"",
-         "time":"19:30"
-      },
-      {
-         "id":59,
-         "senderName":"Александра Орлова",
-         "lastMessage":"Ты уверенно держишься?",
-         "profileImage":"",
-         "time":"19:00"
-      },
-      {
-         "id":60,
-         "senderName":"Леонид Акинфиев",
-         "lastMessage":"Не забыл о встрече?",
-         "profileImage":"",
-         "time":"18:30"
-      }
    ]
 }
