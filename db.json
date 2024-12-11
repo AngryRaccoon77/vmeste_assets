@@ -125,6 +125,12 @@
          "lastMessage":"Привет",
          "profileImage":"https://thispersondoesnotexist.com/",
          "time":"11:25"
+      },
+      {
+          "senderName": "Женя",
+          "lastMessage": "Лол",
+          "profileImage": "https://thispersondoesnotexist.com/",
+          "time": "11:25"
       }
    ]
 }
