@@ -125,12 +125,7 @@
          "lastMessage":"Привет",
          "profileImage":"https://thispersondoesnotexist.com/",
          "time":"11:25"
-      }
-   ]
-}
-
-{
-   "chats":[
+	  },
       {
          "id":22,
          "senderName":"Леонид Тихонов",
@@ -249,6 +244,6 @@
          "lastMessage":"Гром, ты где? Уже опоздали.",
          "profileImage":"",
          "time":"07:40"
-      },
+      }
    ]
 }
